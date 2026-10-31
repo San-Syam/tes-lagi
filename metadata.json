@@ -1,0 +1,6 @@
+{
+  "name": "Pusmendik CBT Simulator & Apps Script Database Generator",
+  "description": "Simulasi Tryout Ujian CBT ala Pusmendik Kemendikdasmen (TKA/ANBK) lengkap dengan generator Google Apps Script (Code.gs & Index.html) dan database Google Spreadsheet otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
